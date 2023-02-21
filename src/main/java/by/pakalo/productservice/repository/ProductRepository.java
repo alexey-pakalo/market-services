@@ -1,6 +1,6 @@
-package com.example.productservice.repository;
+package by.pakalo.productservice.repository;
 
-import com.example.productservice.model.Product;
+import by.pakalo.productservice.model.Product;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;

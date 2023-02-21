@@ -1,8 +1,8 @@
-package com.example.productservice.controller;
+package by.pakalo.productservice.controller;
 
-import com.example.productservice.dto.ProductRequest;
-import com.example.productservice.dto.ProductResponse;
-import com.example.productservice.service.ProductService;
+import by.pakalo.productservice.dto.ProductRequest;
+import by.pakalo.productservice.dto.ProductResponse;
+import by.pakalo.productservice.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

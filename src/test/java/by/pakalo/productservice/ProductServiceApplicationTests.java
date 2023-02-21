@@ -1,7 +1,7 @@
-package com.example.productservice;
+package by.pakalo.productservice;
 
-import com.example.productservice.dto.ProductRequest;
-import com.example.productservice.repository.ProductRepository;
+import by.pakalo.productservice.dto.ProductRequest;
+import by.pakalo.productservice.repository.ProductRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
